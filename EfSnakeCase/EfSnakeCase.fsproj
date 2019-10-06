@@ -8,6 +8,7 @@
         <RepositoryUrl>https://github.com/laibulle/EfSnakeCase</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
