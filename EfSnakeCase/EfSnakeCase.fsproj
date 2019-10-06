@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
+        <Title>EfSnakeCase</Title>
+        <Authors>Guillaume Bailleul</Authors>
+        <PackageProjectUrl>https://github.com/laibulle/EfSnakeCase</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/laibulle/EfSnakeCase</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
