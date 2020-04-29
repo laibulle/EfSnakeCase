@@ -7,13 +7,13 @@ __Install package__
 dotnet add package EfSnakeCase
 ```
 
-__C# USAGE__
+__C# usage__
 
 ```C#
 using Microsoft.EntityFrameworkCore;
 using static EfSnakeCase.Core;
 
-namespace Nixe.Core
+namespace MyApplication.Database
 {
     public class MyDataContext : DbContext
     {
